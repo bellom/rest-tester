@@ -1,24 +1,19 @@
-# README
+# rest-client
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+** Rest Tester !!
+**  To get familiar with making HTTP requests using with Rest-Client ** 
 
-Things you may want to cover:
+This is one of the Ruby on Rails projects recommended by [Microverse](https://www.microverse.org/) and [The Odin Project](https://www.theodinproject.com)
 
-* Ruby version
+## Technology used
+* Ruby
+* Ruby on Rails
 
-* System dependencies
+## Get Started
+* run bundle install
+* gem install rest-client
 
-* Configuration
+## Contributors
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Darshan - [Github Profile](https://github.com/daashandayo)
+* Bellom -  [Github Profile](https://github.com/bellom)
